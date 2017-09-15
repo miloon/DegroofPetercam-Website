@@ -3,8 +3,6 @@
 <a class="anchor" id="mission"></a>
 
 	<h2 class="section-title">Mission</h2>
-	<div class="row">
-		<div class="col-md-offset-1 col-md-10">
 			<p>
 				We believe in <strong>sustainable growth</strong> in an European economy where no one should be left behind.
 				We act towards this by investing in the best solutions for <strong>job creation</strong> and <strong>access to work,
@@ -14,10 +12,8 @@
 			<p>
 				The 3 pillars of Degroof Petercam Foundation:
 			</p>
-		</div>
-	</div>
 
-	<div class="container pillars-container">
+	<div class="pillars-container">
 		<!-- Schéma + liens -->
 		<div class="first-little-box">
 			<!-- First panel -->
@@ -44,7 +40,7 @@
 	</div>
 
 	<!-- Bloc EDUCATION -->
-	<div class="education">
+	<div class="education under-mission-category">
 		<h2>Education</h2>
 		<div class="row">
 			<div class="col-md-offset-1 col-md-10 back-missions">
@@ -52,29 +48,30 @@
 					The Degroof Petercam Foundation supports education by helping to reduce the number of school dropouts.
 					The main focus is on children from low-come families and who are socially disadvantaged.
 					That’s why we’re contributing to quality, equitable education by supporting students with:
+				</p>
 					<ul>
 						<li>Coaching and guidance</li>
 						<li>Encouragement</li>
 						<li>Information about new skills that they'll need in the future</li>
 						<li>Reassessment of technical and vocational education</li>
 					</ul>
-				</p>
+
 				<p>
 					And teachers with:
+				</p>
 					<ul>
 						<li>Coaching and guidance</li>
 						<li>Encouragement</li>
 						<li>Revaluation of the teaching profession</li>
 						<li>Informational and educational workshops</li>
 					</ul>
-				</p>
 			</div>
 		</div>
 	</div>
 	<!-- End EDUCATION -->
 
 	<!-- Bloc Entrepreneurship -->
-	<div class="entrepreneurship">
+	<div class="entrepreneurship under-mission-category">
 		<h2>Entrepreneurship</h2>
 		<div class="row">
 			<div class="col-md-offset-1 col-md-10 back-missions">
@@ -85,19 +82,19 @@
 				</p>
 				<p>
 					The Foundation aims to encourage the creation of businesses and job creation by:
+				</p>
 					<ul>
 						<li>Highlighting entrepreneurship and the role of the entrepreneur</li>
 						<li>Promoting entrepreneurship among young people</li>
 						<li>Supporting new initiatives to boost entrepreneurship</li>
 					</ul>
-				</p>
 			</div>
 		</div>
 	</div>
 	<!-- End Entrepreneurship -->
 
 	<!-- Bloc Job Accessibility -->
-	<div class="job-accessibility">
+	<div class="job-accessibility under-mission-category">
 		<h2>Job Accessibility</h2>
 		<div class="row">
 			<div class="col-md-offset-1 col-md-10 back-missions">
@@ -109,7 +106,6 @@
 				</ul>
 	</div>
 </div>
->>>>>>> e601fc169bebcb348bea0f29ab8b34701fca0a06
 </div>
 	<!-- End Job Accessibility -->
 
