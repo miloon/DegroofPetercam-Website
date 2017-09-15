@@ -1,10 +1,23 @@
+video{
+  width: 80%;
+  margin: 0px 10% 0px 10%;
+}
+
+.title, .section-title{
+  color: #00C980;
+  text-align: center;
+}
+
+.title{
+  margin-top: 70px;
+}
+
 a.anchor {
     display: block;
     position: relative;
     top: -50px;
     visibility: hidden;
 }
-
 
 .navbar{
 	background-color: white;
@@ -103,9 +116,6 @@ h2 {
 }
 
 
-/*
-			---	CHALLENGE   ---
-*/
 #carousel-challenge{
 	margin-top: 60px;
 }
