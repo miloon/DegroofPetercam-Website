@@ -126,3 +126,7 @@ body {
 	background-color: transparent;
 	border: none;
 }
+
+#supportedprojects a {
+  display: inline-block;
+}
