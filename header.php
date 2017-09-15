@@ -17,9 +17,13 @@
 
 				<div class="navbar-header">
 					 
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-						 <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
-					</button> <a class="navbar-brand" href="#home">DP Foundation</a>
+					<!-- <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<img src="logo.tiff" alt="logo de Degroof Petercam Foundation">
+						  <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span> -->
+					<!-- </button>  -->
+					<a  href="#home">
+					<img id="logo-header" src="logo.png" alt="logo de Degroof Petercam Foundation">
+					</a>
 
 				</div>
 				
@@ -44,6 +48,21 @@
 							<a href="#projects">Supported projects</a>
 						</li>
 					</ul>
+
+					<ul class="nav navbar-nav navbar-right" >
+						<li>
+							<a id="lang1" href="#fr">FR</a>
+						</li>
+						<li>
+							<a id="lang2" href="#nl">NL</a>
+						</li>
+						<li>
+							<a id="lang3" href="#eng">ENG</a>
+						</li>
+
+					</ul>
+						
+					
 					
 				</div>
 				

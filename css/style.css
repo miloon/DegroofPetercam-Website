@@ -3,6 +3,34 @@ video{
   margin: 0px 10% 0px 10%;
 }
 
+
+#logo-header{
+  height: 50px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.navbar-brand:hover{
+  border-bottom: 0px;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus{
+  background-color: white;
+  color: grey !important;
+  border-bottom: 0px;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus{
+  background-color: white;
+  color: grey !important;
+  border-bottom: 0px;
+}
+
+
 .title, .section-title{
   color: #00C980;
   text-align: center;
@@ -15,7 +43,7 @@ video{
 a.anchor {
     display: block;
     position: relative;
-    top: -50px;
+    top: -70px;
     visibility: hidden;
 }
 
@@ -23,6 +51,7 @@ a.anchor {
 	background-color: white;
 	color: grey;
 	border-bottom: 0px;
+  padding-bottom: 20px;
 }
 
 .navbar-brand:hover, .navbar-nav>li>a:hover{
@@ -40,6 +69,14 @@ a.anchor {
 	color: grey !important;
 	border-bottom: 3px solid #00C980;
 }
+
+.navbar-right>li>a:hover  {
+  border-bottom: 3px solid #9d9d9d !important;
+}
+
+.navbar-right{
+  padding-right: 20px;
+} 
 
 body {
   padding: 0;
