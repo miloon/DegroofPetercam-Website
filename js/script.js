@@ -14,7 +14,7 @@ $(".navbar a").on('click', function(event) {
     // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
     $('html, body').animate({
       scrollTop: $(hash).offset().top
-    }, 360, function(){
+    }, 500, function(){
 
     // Add hash (#) to URL when done scrolling (default click behavior)
       window.location.hash = hash;
