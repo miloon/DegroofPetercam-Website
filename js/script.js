@@ -23,6 +23,26 @@ $(".navbar a").on('click', function(event) {
   }
 });// End if
 
+// Add smooth scrolling on all links inside the mission
+$(".pillars-container a").on('click', function(event) {
+
+  if (this.hash !== "") {
+    event.preventDefault();
+
+    var hash = this.hash;
+
+    $('html, body').animate({
+      scrollTop: $(hash).offset().top
+    }, 500, function(){
+
+      window.location.hash = hash;
+    });
+
+  }
+});// End if
+
+
+
 $(document).ready(function () {
 	$(function () {
 		var heightEligibility = $('#eligibility').height();
