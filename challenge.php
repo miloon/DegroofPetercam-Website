@@ -28,7 +28,6 @@
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner">
 			<div class="item active item-carousel" id="eligibility">
-				<h3>Eligibility</h3>
 				<p>The Degroof Petercam Grant recognizes and supports outstanding initiatives addressing challenges in job creation and access.</p>
 				<p>Eligible projects must comply with the following criteria:</p>
 				<ul>
@@ -41,7 +40,6 @@
 				</ul>
 			</div>
 			<div class="item item-carousel" id="evaluation">
-				<h3>Evaluation</h3>
 				<p>The DPF Grant Finalists and Laureate will be selected based on their entries as determined by the DPF Grant due diligence and an expert committee.</p>
 				<p>Applications will be evaluated through a 3 steps evaluating system: </p>
 				<p>The following criteria will be evaluated trough every step:</p>
