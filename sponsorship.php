@@ -3,7 +3,12 @@
 	Skills-based sponsorship
 </h2>
 <p>
-	Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+	Every project that is supported by the Foundation is supervised by a Bank Degroof Petercam employee.
+OBJECTIVE: In addition to providing financial support, the Foundation aims to be a genuine, valued partner to projects receiving support.</p>
+
+<h3>SOLIDARITY DAYS </h3>
+<p>Every year the Foundation organizes Solidarity Days. Bank Degroof Petercam uses this event to offer its employees the chance to aid different associations for an entire day.
+
 </p>
 <p>
 	<a class="btn" href="#">View details »</a>
