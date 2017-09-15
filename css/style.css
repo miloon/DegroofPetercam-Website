@@ -4,3 +4,29 @@ a.anchor {
     top: -50px;
     visibility: hidden;
 }
+
+*{
+	font-family: 'Roboto Mono';
+}
+
+.navbar{
+	background-color: white;
+	color: grey;
+	border-bottom: 0px;
+}
+
+.navbar-brand:hover, .navbar-nav>li>a:hover{
+	background-color: white;
+	color: grey !important;
+	border-bottom: 3px solid;
+	border-color: rgba(0, 201, 128, 0.5);
+}
+
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus{
+	background-color: white;
+	color: grey !important;
+	border-bottom: 3px solid #00C980;
+}

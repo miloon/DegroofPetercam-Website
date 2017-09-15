@@ -10,6 +10,7 @@
 </head>
 <body data-spy="scroll" data-target="#toSpy" data-offset="10" >
 	<div class="row">
+
 		<div class="col-md-12" >
 
 			<nav class="navbar navbar-inverse navbar-fixed-top" id="toSpy" role="navigation">
