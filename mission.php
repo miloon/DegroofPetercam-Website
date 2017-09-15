@@ -22,15 +22,15 @@
 
 		<div class="row">
 			<div class="col-xs-6 col-sm-6 col-md-12">
-				<a href="#"><div class="panel-education little-box">
+				<a href="#bloc-education"><div class="panel-education little-box">
 					<!-- Education panel -->
 					Education (youth)
 				</div></a>
-				<a href="#"><div class="entrepreneurship little-box">
+				<a href="#bloc-entrepreneurship"><div class="entrepreneurship little-box">
 					<!-- Entrepreneurship pan -->
 					Entrepreneurship
 				</div></a>
-				<a href="#"><div class="job-accessibility-panel little-box">
+				<a href="#bloc-accessibility"><div class="job-accessibility-panel little-box">
 					<!-- Entrepreneurship pan -->
 					Job Accessibility
 				</div></a>
@@ -41,9 +41,10 @@
 
 	<!-- Bloc EDUCATION -->
 	<div class="education under-mission-category">
-		<h2>Education</h2>
+		<a id="bloc-education" class="anchor"></a>
 		<div class="row">
-			<div class="col-md-offset-1 col-md-10 back-missions">
+			<div class="col-md-offset-1 col-md-10">
+				<h2>Education</h2>
 				<p>
 					The Degroof Petercam Foundation supports education by helping to reduce the number of school dropouts.
 					The main focus is on children from low-come families and who are socially disadvantaged.
@@ -72,9 +73,10 @@
 
 	<!-- Bloc Entrepreneurship -->
 	<div class="entrepreneurship under-mission-category">
-		<h2>Entrepreneurship</h2>
+		<a id="bloc-entrepreneurship" class="anchor"></a>
 		<div class="row">
 			<div class="col-md-offset-1 col-md-10 back-missions">
+						<h2>Entrepreneurship</h2>
 				<p>
 					Entrepreneurship was selected as the second priority pillar because the Foundation is convinced
 					that the creation of enterprises is an effective and measurable solution to the economic challenges
@@ -95,9 +97,10 @@
 
 	<!-- Bloc Job Accessibility -->
 	<div class="job-accessibility under-mission-category">
-		<h2>Job Accessibility</h2>
+		<a id="bloc-accessibility" class="anchor"></a>
 		<div class="row">
 			<div class="col-md-offset-1 col-md-10 back-missions">
+				<h2>Job Accessibility</h2>
 				<ul>
 					<li>Give access to jobs for more underpriviledged</li>
 					<li>Being a catalyst, activator</li>

@@ -4,12 +4,8 @@
 	<div class="row">
 		<div class="col-md-offset-1 col-md-10">
 			<p>
-				Since 2008, we support and guide long-term & innovative projects with large-scale implementation potential.
+				Since <strong>2008</strong>, we support and guide long-term & innovative projects with large-scale implementation potential.
 				We also seek to promote engagement within Bank Degroof Petercam.
-			</p>
-
-			<p>
-				The 3 pillars of Degroof Petercam Foundation:
 			</p>
 
 			<video class="embed-responsive-item" autoplay="true" muted>

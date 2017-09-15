@@ -1,16 +1,40 @@
-video{
-  width: 80%;
-  margin: 0px 10% 0px 10%;
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #E9E9E9;
 }
 
-.title, .section-title{
+h1, h2 {
+  font-family: 'Playfair Display', serif;
+}
+
+section {
+  background-color: #FFF;
+  padding : 30px;
+  margin-bottom: 40px;
+  border: 1px solid  #cacfd2;
+}
+
+.btn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
   color: #00C980;
-  text-align: center;
+  font-size: 20px;
+  background: #ffffff;
+  padding:  5px 10px 5px 10px;
+  border: solid #00c97f 1px;
+  text-decoration: none;
 }
 
-.title{
-  margin-top: 70px;
+.btn:hover {
+  background: #00c97f;
+  text-decoration: none;
+  color: #FFF;
 }
+
+/* Section HOME */
 
 a.anchor {
     display: block;
@@ -41,13 +65,18 @@ a.anchor {
 	border-bottom: 3px solid #00C980;
 }
 
-body {
-  padding: 0;
-  margin: 0;
+.title, .section-title{
+  color: #00C980;
+  text-align: center;
 }
 
-h2 {
-  font-family: 'Playfair Display', serif;
+.title{
+  margin-top: 70px;
+}
+
+video{
+  width: 80%;
+  margin: 0px 10% 0px 10%;
 }
 
 /* Section MISSION */
@@ -58,20 +87,20 @@ h2 {
   font-family: 'Playfair Display', serif;
 }
 
-.back-missions {
+/*.back-missions {
   background-color:  #F2F2F2;
-  border: 1px solid  #cacfd2;
+  border: 1px solid  #00C980;
   border-radius: 5px;
   padding: 10px;
-}
+}*/
 
 .under-mission-category {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
-
+/*
 .under-mission-category > h2 {
   text-align: center;
-}
+}*/
 
 .pillars-container {
   text-align: center;
@@ -115,6 +144,7 @@ h2 {
 
 }
 
+/* Carousel */
 
 #carousel-challenge{
 	margin-top: 60px;
