@@ -1,13 +1,44 @@
 <section>
-<a class="anchor" id="contact"></a>
+	<a class="anchor" id="contact"></a>
 
-<h2>
-	Contact
-</h2>
-<p>
-	Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-</p>
-<p>
-	<a class="btn" href="#">View details »</a>
-</p>
+	<h2>
+		Contact
+	</h2>
+	<h3>The Team</h3>
+	<div class="row">
+		<figure class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+			<img src="img/contact/silvia.jpg" class="img-responsive" alt="Silvia Steisel">
+			<figcaption>Silvia Steisel</figcaption>
+		</figure>
+		<figure class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+			<img src="img/contact/minke.jpg" class="img-responsive" alt="Minke De Smet">
+			<figcaption>Minke De Smet</figcaption>
+		</figure>
+		<figure class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+			<img src="img/contact/patti.jpg" class="img-responsive" alt="Patti Walraf">
+			<figcaption>Patti Walraf</figcaption>
+		</figure>
+		<figure class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+			<img src="img/contact/alizee.jpg" class="img-responsive" alt="Alizée du Bus">
+			<figcaption>Alizée du Bus</figcaption>
+		</figure>
+	</div>
+	<h3>Board of directors </h3>
+	<ul>
+		<li>Xavier Van Campenhout</li>
+		<li>Philippe Masset</li>
+		<li>Silvia Steisel</li>
+		<li>Anouk Schouppe</li>
+		<li>Jean-Marc Verbist</li>
+	</ul>
+	<h3>Contact</h3>
+	<div class="col-md-2 col-md-offset-1">
+		<a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+	</div>
+	<div class="col-md-2 col-md-offset-2">
+		<a href="#"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+	</div>
+	<div class="col-md-2 col-md-offset-2">
+		<a href="foundation@degroofpetercam.com "><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a>
+	</div>
 </section>

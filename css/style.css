@@ -172,6 +172,10 @@ h2 {
   color: #00C980;
 }
 
+figcaption{
+  text-align: center;
+}
+
 .carousel-control.left{
   left: -100px;
   text-align: left;
