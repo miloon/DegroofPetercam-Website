@@ -139,6 +139,7 @@ h2 {
 	border: none;
 }
 
-#supportedprojects a {
-  display: inline-block;
+#section-challenge .carousel-control{
+  background: none;
+  color: black;
 }
