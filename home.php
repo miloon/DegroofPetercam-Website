@@ -1,5 +1,4 @@
-<div class="page-header">
-<a id="home" class="anchor"></a>
+<div class="page-header" id="home">
 	<h1 class="title">Degroof Petercam Foundation</h2>
 	<div class="row">
 		<div class="col-md-offset-1 col-md-10">

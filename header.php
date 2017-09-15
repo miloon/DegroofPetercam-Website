@@ -8,7 +8,7 @@
 	<link href="css/bootstrap.min.css" rel="stylesheet">
    <link href="css/style.css" rel="stylesheet">
 </head>
-<body data-spy="scroll" data-target="#toSpy" data-offset="10" >
+<body data-spy="scroll" data-target="#toSpy" data-offset="100" >
 	<div class="row">
 
 		<div class="col-md-12" >
