@@ -27,6 +27,9 @@
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav" >
 						<li>
+							<a href="#home">Home</a>
+						</li>
+						<li>
 							<a href="#mission">Mission</a>
 						</li>
 						<li>
