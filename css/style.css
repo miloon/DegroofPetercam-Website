@@ -1,0 +1,71 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* Section MISSION */
+
+.section-title {
+  color: #00C980;
+  text-align: center;
+}
+
+.back-missions {
+  background-color:  #f2f3f4;
+  border: 1px solid  #cacfd2;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.education h2 {
+  text-align: center;
+}
+
+.entrepreneurship h2 {
+  text-align: center;
+}
+
+.job-accessibility h2 {
+  text-align: center;
+}
+
+.pillars-container {
+  /*border: 1px solid red;*/
+  text-align: center;
+}
+
+.first-little-box {
+  width : 140px;
+  height: 80px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  padding-top: 10px;
+  margin-bottom: 30px;
+  display: inline-block;
+  background-color: #FFF;
+  text-align: center;
+  -webkit-box-shadow: -10px -10px 0px 0px rgba(79,129,189,1);
+  -moz-box-shadow: -10px -10px 0px 0px rgba(79,129,189,1);
+  box-shadow: -10px -10px 0px 0px rgba(79,129,189,1);
+}
+
+.little-box {
+  width : 140px;
+  height: 80px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  padding-top: 30px;
+  margin: 15px;
+  display: inline-block;
+  background-color: #FFF;
+  text-align: center;
+  text-decoration: none;
+  color: #000;
+  cursor:pointer;
+  -webkit-box-shadow: -10px -10px 0px 0px rgba(79,129,189,1);
+  -moz-box-shadow: -10px -10px 0px 0px rgba(79,129,189,1);
+  box-shadow: -10px -10px 0px 0px rgba(79,129,189,1);
+
+}
