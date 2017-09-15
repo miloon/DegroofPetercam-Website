@@ -7,6 +7,7 @@
 	<title>Degroof Petercam Foundation</title>
 	<link href="css/bootstrap.min.css" rel="stylesheet">
    <link href="css/style.css" rel="stylesheet">
+	 <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
 </head>
 <body data-spy="scroll" data-target="#toSpy" data-offset="100" >
 	<div class="row">
@@ -16,15 +17,17 @@
 			<nav class="navbar navbar-inverse navbar-fixed-top" id="toSpy" role="navigation">
 
 				<div class="navbar-header">
-	
-					<a  href="#home">
-					<img id="logo-header" src="logo.png" alt="logo de Degroof Petercam Foundation">
-					</a>
+
+
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						 <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+					</button> <a class="navbar-brand" href="#home"><img id="logo-header" src="logo.png" alt="logo de Degroof Petercam Foundation"></a>
+
 
 				</div>
-				
+
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-					<ul class="nav navbar-nav" > 
+					<ul class="nav navbar-nav" >
 						<li>
 							<a href="#home">Home</a>
 						</li>
@@ -45,6 +48,7 @@
 						</li>
 					</ul>
 
+
 					<ul class="nav navbar-nav navbar-right" >
 						<li>
 							<a id="lang1" href="#fr">FR</a>
@@ -57,11 +61,9 @@
 						</li>
 
 					</ul>
-						
-					
-					
+
 				</div>
-				
+
 			</nav>
 		</div>
 	</div>
