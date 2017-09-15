@@ -1,0 +1,29 @@
+
+
+
+/*
+			---	CHALLENGE   ---
+*/
+#carousel-challenge{
+	margin-top: 60px;
+}
+
+#challenge .carousel-indicators{
+	position: absolute;
+	left: 0;
+	margin:0;
+	height: 35px;
+	top: -35px;
+	bottom: auto;
+	width: auto;
+	text-align: left;
+}
+
+#challenge .carousel-indicators li{
+	text-indent: 0;
+	width: auto;
+	height: auto;
+	background-color: transparent;
+	border: none;
+}
+
