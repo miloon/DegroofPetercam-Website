@@ -1,5 +1,8 @@
-<section id="challenge">
-	<h2>
+
+<section>
+<a class="anchor" id="challenge"></a>
+
+<h2>
 	Challenge
 	</h2>
 	<p>

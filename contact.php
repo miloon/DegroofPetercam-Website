@@ -1,4 +1,6 @@
-<section id="">
+<section>
+<a class="anchor" id="contact"></a>
+
 <h2>
 	Contact
 </h2>

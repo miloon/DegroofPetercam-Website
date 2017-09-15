@@ -1,4 +1,6 @@
+
 <section id="supportedprojects">
+<a class="anchor" id="projects"></a>
 	<h2>
 		Supported projects
 	</h2>
