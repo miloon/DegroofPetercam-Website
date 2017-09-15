@@ -3,8 +3,6 @@
 <a class="anchor" id="mission"></a>
 
 	<h2 class="section-title">Mission</h2>
-	<div class="row">
-		<div class="col-md-offset-1 col-md-10">
 			<p>
 				We believe in <strong>sustainable growth</strong> in an European economy where no one should be left behind.
 				We act towards this by investing in the best solutions for <strong>job creation</strong> and <strong>access to work,
@@ -14,8 +12,6 @@
 			<p>
 				The 3 pillars of Degroof Petercam Foundation:
 			</p>
-		</div>
-	</div>
 
 	<div class="container pillars-container">
 		<!-- Schéma + liens -->
@@ -109,7 +105,6 @@
 				</ul>
 	</div>
 </div>
->>>>>>> e601fc169bebcb348bea0f29ab8b34701fca0a06
 </div>
 	<!-- End Job Accessibility -->
 
