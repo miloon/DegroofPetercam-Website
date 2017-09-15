@@ -1,4 +1,6 @@
-<section id="mission">
+<section>
+<a class="anchor" id="mission"></a>
+
 <h2>
 	Mission
 </h2>

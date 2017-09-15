@@ -1,4 +1,5 @@
-<section id="sponsorship">
+<section>
+<a class="anchor" id="sponsorship"></a>
 <h2>
 	Skills-based sponsorship
 </h2>
