@@ -13,7 +13,7 @@
 				The 3 pillars of Degroof Petercam Foundation:
 			</p>
 
-	<div class="container pillars-container">
+	<div class="pillars-container">
 		<!-- Schéma + liens -->
 		<div class="first-little-box">
 			<!-- First panel -->
