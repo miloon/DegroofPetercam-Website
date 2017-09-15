@@ -36,7 +36,7 @@
 		<a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
 	</div>
 	<div class="col-md-2 col-md-offset-2">
-		<a href="""><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+		<a href="#"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
 	</div>
 	<div class="col-md-2 col-md-offset-2">
 		<a href="foundation@degroofpetercam.com "><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a>

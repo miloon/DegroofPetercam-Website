@@ -138,3 +138,7 @@ h2 {
 	background-color: transparent;
 	border: none;
 }
+
+figcaption{
+  text-align: center;
+}
