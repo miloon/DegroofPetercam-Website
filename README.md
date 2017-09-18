@@ -11,3 +11,7 @@ Face à nos concurrents qui avaient choisi la facilité, nous n'avons pas gagné
 - [Gary](https://github.com/GaryLuypaert) - la touche design
 - [Thomas](https://github.com/Thomas-Tonneau) - le Git Master
 - [Miloon](https://github.com/miloon/) - coach/support
+
+### A quoi ça ressemble ?
+
+![screenshot](screenshot.jpg)
